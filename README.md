@@ -8,10 +8,10 @@ Los pasos más comunes de limpieza de datos con Python y Pandas son:
 
   1-  **Identificación de datos faltantes:** Utilizando métodos como isnull() o isna() en Pandas para identificar y gestionar valores nulos.
 
-  2-  Manejo de valores atípicos: Identificación y tratamiento de valores extremos que pueden afectar la calidad de los datos.
+  2-  **Manejo de valores atípicos:** Identificación y tratamiento de valores extremos que pueden afectar la calidad de los datos.
 
-  3-  Detección y corrección de duplicados: Identificación y eliminación de registros duplicados en el conjunto de datos.
+  3-  **Detección y corrección de duplicados:** Identificación y eliminación de registros duplicados en el conjunto de datos.
 
-  4-  Normalización de datos: Asegurar la consistencia y homogeneidad en el formato de los datos.
+  4-  **Normalización de datos:** Asegurar la consistencia y homogeneidad en el formato de los datos.
 
-  5-  Manejo de formatos de fecha y tiempo: Ajustar formatos de fechas para una mejor manipulación.
+  5-  **Manejo de formatos de fecha y tiempo:** Ajustar formatos de fechas para una mejor manipulación.
